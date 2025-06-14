@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Introduction to Data Science Fundamentals",
+    "content": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data. It combines statistics, mathematics, programming, and domain expertise to analyze and interpret complex data sets.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/intro-to-data-science/1"
+  },
+  {
+    "title": "Python Programming for Data Analysis",
+    "content": "Python is a powerful programming language widely used in data science. Key libraries include pandas for data manipulation, numpy for numerical computations, matplotlib for visualization, and scikit-learn for machine learning. Learn variables, functions, loops, and data structures essential for data analysis.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/python-programming/2"
+  },
+  {
+    "title": "Statistics and Probability in Data Science",
+    "content": "Statistics forms the foundation of data science. Understanding descriptive statistics, probability distributions, hypothesis testing, confidence intervals, and correlation analysis is crucial for making data-driven decisions and interpreting results correctly.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/statistics-probability/3"
+  },
+  {
+    "title": "Machine Learning Algorithms Overview",
+    "content": "Machine learning algorithms can be categorized into supervised learning (classification and regression), unsupervised learning (clustering and dimensionality reduction), and reinforcement learning. Popular algorithms include linear regression, decision trees, random forest, SVM, and neural networks.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/machine-learning/4"
+  },
+  {
+    "title": "Data Visualization Techniques",
+    "content": "Effective data visualization helps communicate insights clearly. Common chart types include bar charts, line plots, scatter plots, histograms, and heatmaps. Tools like matplotlib, seaborn, and plotly in Python help create compelling visualizations for different types of data analysis.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/data-visualization/5"
+  }
+]
